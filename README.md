@@ -1,4 +1,4 @@
-# __________ Team's Robot Summer GitHub repo
+# Crab Push Team's Robot Summer GitHub repo
 
 ## Branches and Environments
 
